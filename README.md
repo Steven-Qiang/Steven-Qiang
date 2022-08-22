@@ -21,9 +21,9 @@
 </p>
 
 ## Project & Website
-
-![(https://bazhan.wang/home/logo.png)] [在线扒站工具](https://bazhan.wang/?ref=github_profile)
-
+<p>
+<img src="https://bazhan.wang/home/logo.png" width="50"/> <a href="https://bazhan.wang/?ref=github_profile">在线扒站工具</a>
+</p>
 
 ## Contact ME
 
