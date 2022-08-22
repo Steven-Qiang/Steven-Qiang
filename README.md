@@ -22,7 +22,7 @@
 
 ## Project & Website
 <p>
-<img src="https://bazhan.wang/home/logo.png" width="50"/> <a href="https://bazhan.wang/?ref=github_profile">在线扒站工具</a>
+<img src="https://bazhan.wang/home/logo.png" width="50"/> <a href="https://bazhan.wang/?ref=github_profile" style="font-size:1.2rem">在线扒站工具</a>
 </p>
 
 ## Contact ME
