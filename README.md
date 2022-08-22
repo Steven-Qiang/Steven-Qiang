@@ -25,9 +25,7 @@
 <img src="https://bazhan.wang/home/logo.png" width="18"/> <a href="https://bazhan.wang/?ref=github_profile" style="font-size:1.2rem">在线扒站工具</a> | 
 🤣 <a href="https://qiangmouren.github.io/joker-recaptcha/" style="font-size:1.2rem">JokerReCaptcha</a> |
 😋 <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem">Node.JS Query DOMAIN ICP</a> |
- <!--
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Closure_logo.svg/121px-Closure_logo.svg.png" width="18"/> <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem">Desktop For GoogleClosureCompiler</a> (Disrepair) |
--->
+🧮 <a href="https://github.com/qiangmouren/pi-test" style="font-size:1.2rem">π(PI) Calculate and Benchmark</a>
 🦝 <a href="https://github.com/qiangmouren/images-thief" style="font-size:1.2rem">ImagesThief</a>
  
  
