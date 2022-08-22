@@ -22,7 +22,10 @@
 
 ## Project & Website
 <p>
-<img src="https://bazhan.wang/home/logo.png" width="50"/> <a href="https://bazhan.wang/?ref=github_profile" style="font-size:1.2rem">在线扒站工具</a>
+<img src="https://bazhan.wang/home/logo.png" width="18"/> <a href="https://bazhan.wang/?ref=github_profile" style="font-size:1.2rem">在线扒站工具</a> | 
+🤣 <a href="https://qiangmouren.github.io/joker-recaptcha/" style="font-size:1.2rem">JokerReCaptcha</a> |
+😋 <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem">Node.JS Query DOMAIN ICP</a>
+
 </p>
 
 ## Contact ME
