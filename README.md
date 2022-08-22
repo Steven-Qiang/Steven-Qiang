@@ -24,6 +24,6 @@
 ## Contact ME
 
 <p>
- <a href="http://wpa.qq.com/msgrd?v=3&uin=2962051004&site=qq&menu=yes">
-<img src="https://img.shields.io/badge/TENCENTQQ-D14836?style=for-the-badge&logo=Tencent%20QQ&logoColor=#EB1923" /></a>
+<a href="http://wpa.qq.com/msgrd?v=3&uin=2962051004&site=qq&menu=yes"><img src="https://img.shields.io/badge/TENCENTQQ-D52C36?style=for-the-badge&logo=Tencent%20QQ&logoColor=#EB1923" /></a>
+ <a href="mailto:2962051004@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
