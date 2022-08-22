@@ -23,7 +23,7 @@
 ## Project & Website
 
 <p
-![(https://bazhan.wang/home/logo.png)] <a href="https://bazhan.wang/?ref=github_profile">在线扒站工具</a>
+![(https://bazhan.wang/home/logo.png)] [在线扒站工具](https://bazhan.wang/?ref=github_profile)
 </p>
 
 
