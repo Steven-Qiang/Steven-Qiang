@@ -22,11 +22,11 @@
 
 ## Project & Website
 <p>
-<img src="https://bazhan.wang/home/logo.png" width="18"/> <a href="https://bazhan.wang/?ref=github_profile" style="font-size:1.2rem">在线扒站工具</a> | 
-🤣 <a href="https://qiangmouren.github.io/joker-recaptcha/" style="font-size:1.2rem">JokerReCaptcha</a> |
-😋 <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem">Node.JS Query DOMAIN ICP</a> |
-🧮 <a href="https://github.com/qiangmouren/Pi-Calculate-Benchmark" style="font-size:1.2rem">π(PI) Calculate and Benchmark</a>
-🦝 <a href="https://github.com/qiangmouren/images-thief" style="font-size:1.2rem">ImagesThief</a>
+<img src="https://bazhan.wang/home/logo.png" width="18"/> <a href="https://bazhan.wang/?ref=github_profile" style="font-size:1.2rem" target="_blank">在线扒站工具</a> | 
+🤣 <a href="https://qiangmouren.github.io/joker-recaptcha/" style="font-size:1.2rem" target="_blank">JokerReCaptcha</a> |
+😋 <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem" target="_blank">Node.JS Query DOMAIN ICP</a> |
+🧮 <a href="https://github.com/qiangmouren/Pi-Calculate-Benchmark" style="font-size:1.2rem" target="_blank">π(PI) Calculate and Benchmark</a> |
+🦝 <a href="https://github.com/qiangmouren/images-thief" style="font-size:1.2rem" target="_blank">ImagesThief</a>
  
  
 
