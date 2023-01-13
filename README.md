@@ -3,8 +3,8 @@
 ## Mr. Steven Qiang
 
 <p>
-<img title="Steven Qiang's GitHub Stats"  align="left"  src="https://github-readme-stats.vercel.app/api?username=qiangmouren&hide=issues&show_icons=true&hide_border=true" alt="Steven Qiang's GitHub Stats" width="450"/>
-<img title="Steven Qiang's Top Langs"  align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiangmouren&layout=compact&hide=html&hide_border=true" alt="Steven Qiang's Top Langs"/>
+<img title="Steven Qiang's GitHub Stats"  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiangmouren&hide=issues&show_icons=true&hide_border=true" alt="Steven Qiang's GitHub Stats" width="450"/>
+<img title="Steven Qiang's Top Langs"  align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qiangmouren&layout=compact&hide=html&hide_border=true" alt="Steven Qiang's Top Langs"/>
 </p>
 
 ## Things I code with
