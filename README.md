@@ -1,4 +1,4 @@
-<h3>Hi there 👋 <img src="https://visitor-badge.glitch.me/badge?page_id=qiangmouren" align="right"/> </h3>
+<h3>Hi there 👋 </h3>
 
 ## Mr. Steven Qiang
 
@@ -23,6 +23,7 @@
 ## Project & Website
 <p>
 🤣 <a href="https://qiangmouren.github.io/joker-recaptcha/" style="font-size:1.2rem" target="_blank">JokerReCaptcha</a> |
+😋 <a href="https://github.com/qiangmouren/query-domain-icp-python" style="font-size:1.2rem" target="_blank">Python Query DOMAIN ICP</a> |
 😋 <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem" target="_blank">Node.JS Query DOMAIN ICP</a> |
 🧮 <a href="https://github.com/qiangmouren/Pi-Calculate-Benchmark" style="font-size:1.2rem" target="_blank">π(PI) Calculate and Benchmark</a> |
 🦝 <a href="https://github.com/qiangmouren/images-thief" style="font-size:1.2rem" target="_blank">ImagesThief</a>
