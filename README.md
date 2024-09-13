@@ -3,8 +3,8 @@
 ## Mr. Steven Qiang
 
 <p>
-<img title="Steven Qiang's GitHub Stats"  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiangmouren&hide=issues&show_icons=true&hide_border=true" alt="Steven Qiang's GitHub Stats" width="450"/>
-<img title="Steven Qiang's Top Langs"  align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qiangmouren&layout=compact&hide=html&hide_border=true" alt="Steven Qiang's Top Langs"/>
+<img title="Steven Qiang's GitHub Stats"  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Steven-Qiang&hide=issues&show_icons=true&hide_border=true" alt="Steven Qiang's GitHub Stats" width="450"/>
+<img title="Steven Qiang's Top Langs"  align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Steven-Qiang&layout=compact&hide=html&hide_border=true" alt="Steven Qiang's Top Langs"/>
 </p>
 
 ## Things I code with
@@ -22,11 +22,11 @@
 
 ## Project & Website
 <p>
-🤣 <a href="https://qiangmouren.github.io/joker-recaptcha/" style="font-size:1.2rem" target="_blank">JokerReCaptcha</a> |
-😋 <a href="https://github.com/qiangmouren/query-domain-icp-python" style="font-size:1.2rem" target="_blank">Python ICP Query </a> |
-😋 <a href="https://github.com/qiangmouren/query-domain-icp-nodejs" style="font-size:1.2rem" target="_blank">Node.JS ICP Query</a> |
-🧮 <a href="https://github.com/qiangmouren/Pi-Calculate-Benchmark" style="font-size:1.2rem" target="_blank">π(PI) Calculate and Benchmark</a> |
-🦝 <a href="https://github.com/qiangmouren/images-thief" style="font-size:1.2rem" target="_blank">ImagesThief</a>
+🤣 <a href="https://Steven-Qiang.github.io/joker-recaptcha/" style="font-size:1.2rem" target="_blank">JokerReCaptcha</a> |
+😋 <a href="https://github.com/Steven-Qiang/query-domain-icp-python" style="font-size:1.2rem" target="_blank">Python ICP Query </a> |
+😋 <a href="https://github.com/Steven-Qiang/query-domain-icp-nodejs" style="font-size:1.2rem" target="_blank">Node.JS ICP Query</a> |
+🧮 <a href="https://github.com/Steven-Qiang/Pi-Calculate-Benchmark" style="font-size:1.2rem" target="_blank">π(PI) Calculate and Benchmark</a> |
+🦝 <a href="https://github.com/Steven-Qiang/images-thief" style="font-size:1.2rem" target="_blank">ImagesThief</a>
  
  
 
