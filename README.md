@@ -1,40 +1,47 @@
-<h3>Hi there 👋 </h3>
+<div align="center">
 
-## Mr. Steven Qiang
+# 👋 Hi, I'm Steven Qiang!
 
-<p>
-<img title="Steven Qiang's GitHub Stats"  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Steven-Qiang&hide=issues&show_icons=true&hide_border=true" alt="Steven Qiang's GitHub Stats" width="450"/>
-<img title="Steven Qiang's Top Langs"  align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Steven-Qiang&layout=compact&hide=html&hide_border=true" alt="Steven Qiang's Top Langs"/>
+### A Passionate Full-Stack Developer
+
+<!-- 像素风格 GitHub 统计卡片 - 居中 + 美化 -->
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Steven-Qiang&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=summer&color=%23ffffffFF" 
+     alt="Steven's GitHub Stats" 
+     width="80%" 
+     style="border-radius: 12px; margin: 20px 0; box-shadow: 0 2px 15px rgba(0,0,0,0.1);">
+
+---
+
+## 🛠️ Tech Stack I Use
+
+<p align="center" style="gap: 8px; display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue%203-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
 </p>
 
-## Things I code with
+---
 
-<p>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Vue" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=vue&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+## 🚀 Core Projects
+
+<div style="font-size:1.2rem; line-height: 2.5; margin: 20px 0;">
+🔧 <a href="https://github.com/Steven-Qiang/nuitka-dll-bootloader" target="_blank">Nuitka DLL Bootloader</a> | 🌍 <a href="https://github.com/Steven-Qiang/ts-ip2region2" target="_blank">TS IP2Region2 (IPv4/IPv6 Geolocation)</a><br>
+😂 <a href="https://Steven-Qiang.github.io/joker-recaptcha/" target="_blank">JokerReCaptcha (Fake Captcha)</a> | 📊 <a href="https://github.com/Steven-Qiang/Pi-Calculate-Benchmark" target="_blank">π Calculate & Benchmark</a> | 🦝 <a href="https://github.com/Steven-Qiang/images-thief" target="_blank">ImagesThief (Image Downloader)</a><br>
+🎮 <a href="https://github.com/Steven-Qiang/playwright-in-electron" target="_blank">Playwright in Electron</a>
+</div>
+
+---
+
+<!-- 底部装饰 -->
+<p style="margin-top: 30px; color: #888; font-size: 0.9rem;">
+  ⭐ From Steven Qiang | Always Learning, Always Building
 </p>
 
-## Project & Website
-<p>
-🤣 <a href="https://Steven-Qiang.github.io/joker-recaptcha/" style="font-size:1.2rem" target="_blank">JokerReCaptcha</a> |
-😋 <a href="https://github.com/Steven-Qiang/query-domain-icp-python" style="font-size:1.2rem" target="_blank">Python ICP Query </a> |
-😋 <a href="https://github.com/Steven-Qiang/query-domain-icp-nodejs" style="font-size:1.2rem" target="_blank">Node.JS ICP Query</a> |
-🧮 <a href="https://github.com/Steven-Qiang/Pi-Calculate-Benchmark" style="font-size:1.2rem" target="_blank">π(PI) Calculate and Benchmark</a> |
-🦝 <a href="https://github.com/Steven-Qiang/images-thief" style="font-size:1.2rem" target="_blank">ImagesThief</a>
- 
- 
-
-</p>
-
-## Contact ME
-
-<p>
-<a href="http://wpa.qq.com/msgrd?v=3&uin=2962051004&site=qq&menu=yes"><img src="https://img.shields.io/badge/TENCENTQQ-D52C36?style=for-the-badge&logo=Tencent%20QQ&logoColor=#EB1923" /></a>
- <a href="mailto:2962051004@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
