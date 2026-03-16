@@ -33,7 +33,7 @@
 
 <div style="font-size:1.2rem; line-height: 2.5; margin: 20px 0;">
 🔧 <a href="https://github.com/Steven-Qiang/nuitka-dll-bootloader" target="_blank">Nuitka DLL Bootloader</a> | 🌍 <a href="https://github.com/Steven-Qiang/ts-ip2region2" target="_blank">TS IP2Region2 (IPv4/IPv6 Geolocation)</a><br>
-😂 <a href="https://Steven-Qiang.github.io/joker-recaptcha/" target="_blank">JokerReCaptcha (Fake Captcha)</a> | 📊 <a href="https://github.com/Steven-Qiang/pilab" target="_blank">π Calculate & Benchmark</a> | 🦝 <a href="https://github.com/Steven-Qiang/images-thief" target="_blank">ImagesThief (Image Downloader)</a><br>
+😂 <a href="https://Steven-Qiang.github.io/fake-recaptcha/" target="_blank">Fake-ReCaptcha</a> | 📊 <a href="https://github.com/Steven-Qiang/pilab" target="_blank">π Calculate & Benchmark</a> | 🦝 <a href="https://github.com/Steven-Qiang/images-thief" target="_blank">ImagesThief (Image Downloader)</a><br>
 🎮 <a href="https://github.com/Steven-Qiang/playwright-in-electron" target="_blank">Playwright in Electron</a>
 </div>
 
